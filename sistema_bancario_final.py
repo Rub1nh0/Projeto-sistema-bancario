@@ -12,6 +12,9 @@ limite = 500
 extrato = ""
 num_saques = 0
 LIMITE_SAQUES = 3
+JUROS_CHEQUE_ESPECIAL = 0.02  # 2% de juros
+cheque_especial = 300  # Limite do cheque especial
+
 
 while True:
 
